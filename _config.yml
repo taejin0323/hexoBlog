@@ -3,17 +3,26 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-keywords:
-author: John Doe
-language: en
-timezone:
+title: ATTACK ON NUNU #블로그 왼쪽 상단 제목
+subtitle: STUDY BLOG #블로그 가운데 제목
+subtitle_desc: Once more into the fray.... Live and die on this day #블로그 제목 밑 내용
+description: 개인적으로 공부하면서 정리한 내용들을 블로그에 남기고 있습니다. #introduction 밑에 내용
+keywords: attackonnunu, nunu blog
+author: # 내 정보
+  name: TAEJIN KIM
+  link: https://github.com/taejin0323
+language: en  #기본언어. 다국어 지원
+timezone: Asia/Seoul  #해당 타임존 설정(https://en.wikipedia.org/wiki/List_of_tz_database_time_zones)
+
+#favicon_ico: themes/hexo-theme-skapp/source/img/logo.png
+logo: img/attackOn.png
+
+default_cover: img/default_cover.png
+header_cover: img/header-bg.jpg
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://taejin0323.github.io/
+url: http://taejin0323.github.io/ #내 github page 주소
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -74,6 +83,12 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: hexo-theme-skapp
+theme_config:
+  # MENU
+  menu:
+    home: /
+    archive: /archives
+    about: /about
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
