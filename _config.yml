@@ -15,10 +15,10 @@ language: en  #기본언어. 다국어 지원
 timezone: Asia/Seoul  #해당 타임존 설정(https://en.wikipedia.org/wiki/List_of_tz_database_time_zones)
 
 #favicon_ico: themes/hexo-theme-skapp/source/img/logo.png
-logo: img/attackOn.png
+logo: /img/attackOn.png
 
-default_cover: img/default_cover.png
-header_cover: img/header-bg.jpg
+default_cover: /img/default_cover.png
+header_cover: /img/header-bg.jpg
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -38,13 +38,13 @@ i18n_dir: :lang
 skip_render:
 
 # Writing
-new_post_name: :title.md # File name of new posts
-default_layout: post
+new_post_name: :year:month:day-:title.md # File name of new posts
+default_layout: draft
 titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
 filename_case: 0
-render_drafts: false
-post_asset_folder: false
+render_drafts: false  #true로 바꾸면 draft로 작생된 작업을 hexo server --draft 입력 없이 자동으로 로컬에서도 확인
+post_asset_folder: false  #post마다 각각 folder를 만들어 관리
 relative_link: false
 future: true
 highlight:
