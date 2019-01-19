@@ -4,7 +4,8 @@ categories:
   - WEB
   - MARKDOWN
 tags:
-  - markup, markdown
+  - markup
+  - markdown
 date: 2019-01-17 16:31:42
 subtitle: 첫 포스팅
 cover: https://www.mcdwayne.com/wp-content/uploads/2018/05/I-love-markdown-syntax-language.png
