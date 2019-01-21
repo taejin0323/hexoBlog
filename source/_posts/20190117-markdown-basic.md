@@ -1,5 +1,8 @@
 ---
 title: Markup? Markdown!
+author:
+  nick: TAEJIN
+  link: https://www.github.com/taejin0323
 categories:
   - WEB
   - MARKDOWN

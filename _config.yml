@@ -8,9 +8,6 @@ subtitle: STUDY BLOG #블로그 가운데 제목
 subtitle_desc: Once more into the fray.... Live and die on this day #블로그 제목 밑 내용
 description: 개인적으로 공부하면서 정리한 내용들을 블로그에 남기고 있습니다. #introduction 밑에 내용
 keywords: attackonnunu, nunu blog
-author: # 내 정보
-  name: TAEJIN KIM
-  link: https://github.com/taejin0323
 language: en  #기본언어. 다국어 지원
 timezone: Asia/Seoul  #해당 타임존 설정(https://en.wikipedia.org/wiki/List_of_tz_database_time_zones)
 
@@ -96,3 +93,10 @@ deploy:
   type: git
   repo: https://github.com/taejin0323/taejin0323.github.io.git
   branch: master
+
+
+# footer information
+about:
+  info: 아직 많이 부족하지만 하나씩 천천히...
+  address: Republic of Korea
+  email: taejin0323@gmail.com

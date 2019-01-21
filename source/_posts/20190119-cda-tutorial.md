@@ -1,10 +1,15 @@
 ---
 title: CDA 란?
+author: 
+  nick: TAEJIN
+  link: https://www.github.com/taejin0323
 subtitle: 19.01.17 내용 복습
 categories:
-  - null
+  - IHIS
+  - HL7
 tags:
-  - null
+  - HL7
+  - cda
 cover: 'https://images.slideplayer.com/25/7958574/slides/slide_1.jpg'
 date: 2019-01-19 19:07:59
 ---
@@ -62,11 +67,11 @@ date: 2019-01-19 19:07:59
 
 
 * **The Header**
-- &lt;ClinicalDocument&gt; 태그와 &lt;structuredBody&gt; 태그 사이에 있다
-- 문서를 확인하고 분류하며 ==인증, 진료, 환자, 관련된 제공자들의 정보==를 담는다.
+  - &lt;ClinicalDocument&gt; 태그와 &lt;structuredBody&gt; 태그 사이에 있다
+  - 문서를 확인하고 분류하며 ==인증, 진료, 환자, 관련된 제공자들의 정보==를 담는다.
 
 * **The Body**
-- 진료 보고서(clinical report)를 담고 있다.
-- 1)비정형화(unstructured blob)
-  2)정형화된 표기(structured markup) 둘 중 하나이다.
-  - 위 예제는 &lt;structuredBody&gt; 태그로 정형화된 구조이고, document section이 되풀이해서 올 수 있는 recursive 구조이다.
+  - 진료 보고서(clinical report)를 담고 있다.
+  - 1)비정형화(unstructured blob)
+    2)정형화된 표기(structured markup) 둘 중 하나이다.
+    - 위 예제는 &lt;structuredBody&gt; 태그로 정형화된 구조이고, document section이 되풀이해서 올 수 있는 recursive 구조이다.

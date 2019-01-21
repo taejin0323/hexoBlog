@@ -1,3 +1,6 @@
 - title: github
   icon: icon-github
   link: https://github.com/taejin0323
+- title: rss
+  icon: icon-rss
+  link: /atom.xml
