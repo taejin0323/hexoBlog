@@ -1,6 +1,6 @@
 ---
 title: CDA 란?
-author: 
+author:
   nick: TAEJIN
   link: https://www.github.com/taejin0323
 subtitle: 19.01.17 내용 복습

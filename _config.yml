@@ -94,6 +94,8 @@ deploy:
   repo: https://github.com/taejin0323/taejin0323.github.io.git
   branch: master
 
+# 댓글 기능 disqus
+disqus_shortname: taejin0323-github-io
 
 # footer information
 about:
