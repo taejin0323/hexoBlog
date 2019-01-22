@@ -14,9 +14,7 @@ cover: 'https://images.slideplayer.com/25/7958574/slides/slide_1.jpg'
 date: 2019-01-19 19:07:59
 ---
 
-### Related Posts
-
-
+### Related Post
 ----------
 <blockQuote>*본 문서는 IHIS 연구소의 **'HL7 Clinical Document Architecture Release 2'** pdf 문서를 기반으로 작성 되었습니다.* </blockQuote>
 
@@ -40,9 +38,9 @@ date: 2019-01-19 19:07:59
     &emsp;- 임상 문서에 대한 기본 맥락(default context)를 설정한다.
     - **Wholeness (전체성)**
     &emsp;- 문서의 인증은 전체적으로 적용되며 문서 전체 맥락(context)이 없는 부분에는 적용되지 않는다.
-    - **Human readability (가독성)***
+    - **Human readability (가독성)**
     &emsp;- 사람이 읽을 수 있어야 한다.
-        </div>
+    </div>
  </div>
 
 ## 2. CDA의 주요 특성(Key aspects)
@@ -74,4 +72,4 @@ date: 2019-01-19 19:07:59
   - 진료 보고서(clinical report)를 담고 있다.
   - 1)비정형화(unstructured blob)
     2)정형화된 표기(structured markup) 둘 중 하나이다.
-    - 위 예제는 &lt;structuredBody&gt; 태그로 정형화된 구조이고, document section이 되풀이해서 올 수 있는 recursive 구조이다.
+  - 위 예제는 &lt;structuredBody&gt; 태그로 정형화된 구조이고, document section이 되풀이해서 올 수 있는 recursive 구조이다.
