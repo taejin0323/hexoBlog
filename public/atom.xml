@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://taejin0323.github.io/"/>
-  <updated>2019-01-22T14:11:40.370Z</updated>
+  <updated>2019-01-23T08:29:21.087Z</updated>
   <id>http://taejin0323.github.io/</id>
   
   <author>
@@ -17,13 +17,75 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>spring</title>
+    <title>블로그에 대한 투덜투덜</title>
+    <link href="http://taejin0323.github.io/2019/01/23/blog-issues/"/>
+    <id>http://taejin0323.github.io/2019/01/23/blog-issues/</id>
+    <published>2019-01-23T08:13:45.000Z</published>
+    <updated>2019-01-23T08:29:21.087Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>그냥 두서없이 블로그 만들면서 들었던 생각들을 작성</p></blockquote><p>19.01.23</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line">블로그 생성한지 일주일이 지나가고 있지만 아직 모르는 것이 너무 많다ㅠ</span><br><span class="line">테마를 끌어와서 내 취향대로 설정하고 싶은데 마음대로 잘 안되네...</span><br><span class="line"></span><br><span class="line">아직까지 마크다운 사용에도 익숙하지 않고..</span><br><span class="line">저번 주까지 하루패드 에디터를 사용해서 작성했지만 에디터에서 보여지는 결과물과 Github page에서 출력되는 결과물이 달라서 Typora 에디터로 바꿔봤다(하루패드는 화면이 분할되서 좋았고, Typora는 UI가 이쁘다)</span><br><span class="line">일단은 plugin 기능들까지 사용하면서 최대한 나만의 개발환경을 만들어 보려고 노력중이다...</span><br><span class="line"></span><br><span class="line">내일까지 제출해야 하는 제안서에 시간을 많이 할애하고 있는 것도 있지만,</span><br><span class="line">포스팅 환경이 아직 잘 구성되지 못해서 업로드가 더딘 것 같다...</span><br><span class="line"></span><br><span class="line">적어도 개강 전까지 최대한 빨리 적응해서 능숙해 졌으면 좋겠다</span><br></pre></td></tr></table></figure><p><br><br><br></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;그냥 두서없이 블로그 만들면서 들었던 생각들을 작성&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;19.01.23&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;
+      
+    
+    </summary>
+    
+      <category term="ETC" scheme="http://taejin0323.github.io/categories/ETC/"/>
+    
+    
+      <category term="잡다한" scheme="http://taejin0323.github.io/tags/%EC%9E%A1%EB%8B%A4%ED%95%9C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>포스트 작성을 위한 Hexo Plugins</title>
+    <link href="http://taejin0323.github.io/2019/01/23/markdown-plugin/"/>
+    <id>http://taejin0323.github.io/2019/01/23/markdown-plugin/</id>
+    <published>2019-01-23T07:32:24.000Z</published>
+    <updated>2019-01-23T08:09:48.810Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="Related-Posts"><a href="#Related-Posts" class="headerlink" title="Related Posts"></a>Related Posts</h3>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;Related-Posts&quot;&gt;&lt;a href=&quot;#Related-Posts&quot; class=&quot;headerlink&quot; title=&quot;Related Posts&quot;&gt;&lt;/a&gt;Related Posts&lt;/h3&gt;
+      
+    
+    </summary>
+    
+      <category term="BLOG" scheme="http://taejin0323.github.io/categories/BLOG/"/>
+    
+      <category term="HEXO" scheme="http://taejin0323.github.io/categories/BLOG/HEXO/"/>
+    
+    
+      <category term="hexo" scheme="http://taejin0323.github.io/tags/hexo/"/>
+    
+      <category term="plugins" scheme="http://taejin0323.github.io/tags/plugins/"/>
+    
+      <category term="헥소" scheme="http://taejin0323.github.io/tags/%ED%97%A5%EC%86%8C/"/>
+    
+      <category term="플러그인" scheme="http://taejin0323.github.io/tags/%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Spring 개요</title>
     <link href="http://taejin0323.github.io/2019/01/22/spring/"/>
     <id>http://taejin0323.github.io/2019/01/22/spring/</id>
     <published>2019-01-22T08:30:00.000Z</published>
-    <updated>2019-01-22T14:11:40.370Z</updated>
+    <updated>2019-01-23T08:18:44.013Z</updated>
     
-    <content type="html"><![CDATA[<blockquote><p>가장 좋은 문서는 spring.io 공식 홈페이지에서 제공하는 documents 입니다. 개인적으로 공부하면서 작성하는 문서라 틀린 부분이 있을 수 있으니, 반드시 공식 문서를 참조하시기 바랍니다.</p><blockquote><p>URL : <a href="https://spring.io" target="_blank" rel="noopener">https://spring.io</a><br>소스코드 : <a href="https://github.com/spring-projects" target="_blank" rel="noopener">https://github.com/spring-projects</a><br>가이드 : <a href="https://spring.io/guides" target="_blank" rel="noopener">https://spring.io/guides</a></p></blockquote></blockquote><h1 id="스프링"><a href="#스프링" class="headerlink" title="스프링"></a>스프링</h1><p>:book: 목차:book:</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">* 뒤에 내용을 추가하면서 목차도 추가!</span><br></pre></td></tr></table></figure><ol><li><a href="#1.-스프링(Spring">스프링(Spring)</a>)</li></ol><hr><h3 id="1-스프링-Spring"><a href="#1-스프링-Spring" class="headerlink" title="1. 스프링(Spring)"></a>1. 스프링(Spring)</h3><p>공식 홈페이지 첫 화면을 보면 ==Spring : the source for modern java== 라고 적혀있다.</p><p>이 문장만으로는 이해하기 어려워서 구글에 검색을 해도 <strong>스프링</strong>이란 한 문장으로 이런 것이다 라고 정의내리기 어려운 것 같다.</p><p>우리나라에서는 스프링하면 스프링 프레임워크(Spring framework)를 주로 이야기하지만, 스프링은</p><div style="border-style:dashed; color:grey; text-align:center"><br>자바 엔터프라이즈 개발을 편하게 해주는 오픈소스 경량급 애플리케이션 프레임워크<br><br></div>]]></content>
+    <content type="html"><![CDATA[<blockquote><p>가장 좋은 문서는 spring.io 공식 홈페이지에서 제공하는 documents 입니다. 개인적으로 공부하면서 작성하는 문서라 틀린 부분이 있을 수 있으니, 반드시 공식 문서를 참조하시기 바랍니다.</p><blockquote><p><a href="https://spring.io" target="_blank" rel="noopener">스프링 공식 홈페이지</a><br><a href="https://github.com/spring-projects" target="_blank" rel="noopener">소스코드</a><br><a href="https://spring.io/guides" target="_blank" rel="noopener">가이드</a></p></blockquote></blockquote><h1 id="스프링"><a href="#스프링" class="headerlink" title="스프링"></a>스프링</h1><p>:book: 목차 :book:</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">* 뒤에 내용을 추가하면서 목차도 추가!</span><br></pre></td></tr></table></figure><ol><li><a href="#1.-스프링(Spring">스프링(Spring)</a>)</li></ol><hr><h3 id="1-스프링-Spring"><a href="#1-스프링-Spring" class="headerlink" title="1. 스프링(Spring)"></a>1. 스프링(Spring)</h3><p>공식 홈페이지 첫 화면을 보면 ==Spring : the source for modern java== 라고 적혀있다.</p><p>이 문장만으로는 이해하기 어려워서 구글에 검색을 해도 <strong>스프링</strong>이란 한 문장으로 이런 것이다 라고 정의내리기 어려운 것 같다.</p><p>우리나라에서는 스프링하면 스프링 프레임워크(Spring framework)를 주로 이야기하지만, 스프링은</p><div style="border-style:dashed; color:grey; text-align:center"><br>자바 엔터프라이즈 개발을 편하게 해주는 오픈소스 경량급 애플리케이션 프레임워크<br><br></div>]]></content>
     
     <summary type="html">
     
@@ -44,6 +106,8 @@
       <category term="spring" scheme="http://taejin0323.github.io/tags/spring/"/>
     
       <category term="spring framework" scheme="http://taejin0323.github.io/tags/spring-framework/"/>
+    
+      <category term="스프링" scheme="http://taejin0323.github.io/tags/%EC%8A%A4%ED%94%84%EB%A7%81/"/>
     
   </entry>
   
@@ -82,9 +146,9 @@
     <link href="http://taejin0323.github.io/2019/01/17/markdown-basic/"/>
     <id>http://taejin0323.github.io/2019/01/17/markdown-basic/</id>
     <published>2019-01-17T07:31:42.000Z</published>
-    <updated>2019-01-21T11:43:08.337Z</updated>
+    <updated>2019-01-23T07:30:38.842Z</updated>
     
-    <content type="html"><![CDATA[<p>Github Page를 시작 하면서 처음으로 Markdown 언어를 사용하게 되었습니다.<br>처음 웹 프로그래밍을 배울 때 HTML부터 배우면서 Hyper Text Markup Language(HTML)의 정확한 의미와 뜻은 알지 못한체 그저 태그로 구성된 문서(!)라는 정도로만 이해하고 넘겼습니다.</p><p>뜬금없이 HTML과 Markup에 대해 언급해서 의아하실 수 있지만, <a href="https://en.wikipedia.org/wiki/Markdown" target="_blank" rel="noopener">Markdown</a>에 대한 위키피디아 정의를 보면 ‘Markdown is a lightweight markup language’라고 언급되어 있습니다.<br>여기서 HTML에 대한 정의를 깊게 이야기하진 않겠지만, 적어도 <strong>Markup</strong>은 무엇인지 알고 <strong>Markdown</strong>에 대해서 알아보도록 하겠습니다.</p><h2 id="Markup-이란"><a href="#Markup-이란" class="headerlink" title="Markup 이란?"></a>Markup 이란?</h2><p>‘Markup’이란 단어는 비즈니스나 법률 등에도 다른 의미로 사용되는데, 프로그래밍에서는 쉽게 말해 <strong>어딘가에 표시를 해두는 것</strong>을 뜻합니다.<br>이해를 돕기 위해 예를 들어보겠습니다.</p><p>예 1) 표시가 없을 때</p><ul><li>HTML을 가르쳐드립니다 핵심 태그만 알면 당신도 HTML의 고수가 될 수 있습니다 19/01/17 세미나실</li></ul><p>예 2) 표시가 있을 때</p><ul><li>제목 : HTML을 가르쳐드립니다</li><li>내용 : 핵심 태그만 알면 당신도 HTML의 고수가 될 수 있습니다</li><li>날짜 : 19/01/17</li><li>장소 : 세미나실</li></ul><p>표시가 있음으로 단락(HTML에서는 Tag로 표현합니다)이 구분되고 직관적으로 이해하기도 쉬워졌습니다. 즉, <strong>Markup 언어를 사용하면 문서(text)를 구조적으로 표현할 수 있습니다.</strong></p><h2 id="Markdown-이란"><a href="#Markdown-이란" class="headerlink" title="Markdown 이란?"></a>Markdown 이란?</h2><p><a href="https://ko.wikipedia.org/wiki/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4" target="_blank" rel="noopener">마크다운</a> 언어는 <strong>사람들이 읽기 쉽고 쓰기 쉬운 플레인 텍스트 포맷을 사용하여 쓸 수 있으면서 구조적으로 유효한 HTML로 선택적 변환이 가능하게 하는 것을 목표</strong>로 2004년 <a href="https://en.wikipedia.org/wiki/John_Gruber" target="_blank" rel="noopener">존 그루버</a>가 <a href="https://ko.wikipedia.org/wiki/%EC%97%90%EB%9F%B0_%EC%8A%A4%EC%9B%8C%EC%B8%A0" target="_blank" rel="noopener">에런 스위츠</a>와 협업하여 만든 언어입니다.<br>특수기호와 문자를 이용하는 비교적 매우 간단한 문법 구조로 빠르게 컨텐츠를 작성할 수 있고 보다 직관적으로 이해할 수 있습니다.</p><p>이해를 돕기 위해 일상에서 자주 사용되는 예를 들어보겠습니다.</p><ul><li>SNS의 태그 기능 ex) 페이스북, 인스타그램</li><li>깃허브 README.md 등…</li></ul><p>맨 처음 언급한 위키피디아 내용처럼 마크다운 언어는 마크업 언어를 <strong>좀 더 직관적이고 간결하게 문서를 작성하게 해주는 언어</strong>입니다.<br>하지만 딱히 정해진 표준이 없기에 도구에 따라서 변환방식이나 생성물이 다르고, 모든 HTML markup을 대신하지 못하는 단점이 있습니다.</p><h2 id="참조"><a href="#참조" class="headerlink" title="참조 :"></a>참조 :</h2><ul><li><a href="https://brunch.co.kr/@coveryou/14" target="_blank" rel="noopener">https://brunch.co.kr/@coveryou/14</a></li><li><a href="https://cordelia273.space/15" target="_blank" rel="noopener">https://cordelia273.space/15</a></li></ul>]]></content>
+    <content type="html"><![CDATA[<p>Github Page를 시작 하면서 처음으로 Markdown 언어를 사용하게 되었습니다.<br>처음 웹 프로그래밍을 배울 때 HTML부터 배우면서 Hyper Text Markup Language(HTML)의 정확한 의미와 뜻은 알지 못한체 그저 태그로 구성된 문서(!)라는 정도로만 이해하고 넘겼습니다.</p><p>뜬금없이 HTML과 Markup에 대해 언급해서 의아하실 수 있지만, <a href="https://en.wikipedia.org/wiki/Markdown" target="_blank" rel="noopener">Markdown</a>에 대한 위키피디아 정의를 보면 ‘Markdown is a lightweight markup language’라고 언급되어 있습니다.<br>여기서 HTML에 대한 정의를 깊게 이야기하진 않겠지만, 적어도 <strong>Markup</strong>은 무엇인지 알고 <strong>Markdown</strong>에 대해서 알아보도록 하겠습니다.</p><h2 id="Markup-이란"><a href="#Markup-이란" class="headerlink" title="Markup 이란?"></a>Markup 이란?</h2><p>‘Markup’이란 단어는 비즈니스나 법률 등에도 다른 의미로 사용되는데, 프로그래밍에서는 쉽게 말해 <strong>어딘가에 표시를 해두는 것</strong>을 뜻합니다.<br>이해를 돕기 위해 예를 들어보겠습니다.</p><p>예 1) 표시가 없을 때</p><ul><li>HTML을 가르쳐드립니다 핵심 태그만 알면 당신도 HTML의 고수가 될 수 있습니다 19/01/17 세미나실</li></ul><p>예 2) 표시가 있을 때</p><ul><li>제목 : HTML을 가르쳐드립니다</li><li>내용 : 핵심 태그만 알면 당신도 HTML의 고수가 될 수 있습니다</li><li>날짜 : 19/01/17</li><li>장소 : 세미나실</li></ul><p>표시가 있음으로 단락(HTML에서는 Tag로 표현합니다)이 구분되고 직관적으로 이해하기도 쉬워졌습니다. 즉, <strong>Markup 언어를 사용하면 문서(text)를 구조적으로 표현할 수 있습니다.</strong></p><h2 id="Markdown-이란"><a href="#Markdown-이란" class="headerlink" title="Markdown 이란?"></a>Markdown 이란?</h2><p><a href="https://ko.wikipedia.org/wiki/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4" target="_blank" rel="noopener">마크다운</a> 언어는 <strong>사람들이 읽기 쉽고 쓰기 쉬운 플레인 텍스트 포맷을 사용하여 쓸 수 있으면서 구조적으로 유효한 HTML로 선택적 변환이 가능하게 하는 것을 목표</strong>로 2004년 <a href="https://en.wikipedia.org/wiki/John_Gruber" target="_blank" rel="noopener">존 그루버</a>가 <a href="https://ko.wikipedia.org/wiki/%EC%97%90%EB%9F%B0_%EC%8A%A4%EC%9B%8C%EC%B8%A0" target="_blank" rel="noopener">에런 스위츠</a>와 협업하여 만든 언어입니다.<br>특수기호와 문자를 이용하는 비교적 매우 간단한 문법 구조로 빠르게 컨텐츠를 작성할 수 있고 보다 직관적으로 이해할 수 있습니다.</p><p>이해를 돕기 위해 일상에서 자주 사용되는 예를 들어보겠습니다.</p><ul><li>SNS의 태그 기능 ex) 페이스북, 인스타그램</li><li>깃허브 README.md 등…</li></ul><p>맨 처음 언급한 위키피디아 내용처럼 마크다운 언어는 마크업 언어를 <strong>좀 더 직관적이고 간결하게 문서를 작성하게 해주는 언어</strong>입니다.</p><h2 id="마크다운의-장-단점"><a href="#마크다운의-장-단점" class="headerlink" title="마크다운의 장-단점"></a>마크다운의 장-단점</h2><h3 id="장점"><a href="#장점" class="headerlink" title="장점"></a>장점</h3><pre><code>1. 간결하다.2. 별도의 도구없이 작성가능하다.3. 다양한 형태로 변환이 가능하다.3. 텍스트(Text)로 저장되기 때문에 용량이 적어 보관이 용이하다.4. 텍스트파일이기 때문에 버전관리시스템을 이용하여 변경이력을 관리할 수 있다.5. 지원하는 프로그램과 플랫폼이 다양하다.</code></pre><h3 id="단점"><a href="#단점" class="headerlink" title="단점"></a>단점</h3><pre><code>1. 표준이 없다.2. 표준이 없기 때문에 도구에 따라서 변환방식이나 생성물이 다르다.3. 모든 HTML 마크업을 대신하지 못한다.</code></pre><h2 id="참조"><a href="#참조" class="headerlink" title="참조 :"></a>참조 :</h2><ul><li><a href="https://brunch.co.kr/@coveryou/14" target="_blank" rel="noopener">https://brunch.co.kr/@coveryou/14</a></li><li><a href="https://cordelia273.space/15" target="_blank" rel="noopener">https://cordelia273.space/15</a></li></ul><p><br><br><br></p>]]></content>
     
     <summary type="html">
     
@@ -95,9 +159,9 @@
     
     </summary>
     
-      <category term="WEB" scheme="http://taejin0323.github.io/categories/WEB/"/>
+      <category term="BLOG" scheme="http://taejin0323.github.io/categories/BLOG/"/>
     
-      <category term="MARKDOWN" scheme="http://taejin0323.github.io/categories/WEB/MARKDOWN/"/>
+      <category term="MARKDOWN" scheme="http://taejin0323.github.io/categories/BLOG/MARKDOWN/"/>
     
     
       <category term="markup" scheme="http://taejin0323.github.io/tags/markup/"/>
