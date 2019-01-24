@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://taejin0323.github.io/"/>
-  <updated>2019-01-23T08:29:21.087Z</updated>
+  <updated>2019-01-24T09:08:25.927Z</updated>
   <id>http://taejin0323.github.io/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://taejin0323.github.io/2019/01/23/blog-issues/"/>
     <id>http://taejin0323.github.io/2019/01/23/blog-issues/</id>
     <published>2019-01-23T08:13:45.000Z</published>
-    <updated>2019-01-23T08:29:21.087Z</updated>
+    <updated>2019-01-24T09:08:25.927Z</updated>
     
-    <content type="html"><![CDATA[<blockquote><p>그냥 두서없이 블로그 만들면서 들었던 생각들을 작성</p></blockquote><p>19.01.23</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line">블로그 생성한지 일주일이 지나가고 있지만 아직 모르는 것이 너무 많다ㅠ</span><br><span class="line">테마를 끌어와서 내 취향대로 설정하고 싶은데 마음대로 잘 안되네...</span><br><span class="line"></span><br><span class="line">아직까지 마크다운 사용에도 익숙하지 않고..</span><br><span class="line">저번 주까지 하루패드 에디터를 사용해서 작성했지만 에디터에서 보여지는 결과물과 Github page에서 출력되는 결과물이 달라서 Typora 에디터로 바꿔봤다(하루패드는 화면이 분할되서 좋았고, Typora는 UI가 이쁘다)</span><br><span class="line">일단은 plugin 기능들까지 사용하면서 최대한 나만의 개발환경을 만들어 보려고 노력중이다...</span><br><span class="line"></span><br><span class="line">내일까지 제출해야 하는 제안서에 시간을 많이 할애하고 있는 것도 있지만,</span><br><span class="line">포스팅 환경이 아직 잘 구성되지 못해서 업로드가 더딘 것 같다...</span><br><span class="line"></span><br><span class="line">적어도 개강 전까지 최대한 빨리 적응해서 능숙해 졌으면 좋겠다</span><br></pre></td></tr></table></figure><p><br><br><br></p>]]></content>
+    <content type="html"><![CDATA[<blockquote><p>그냥 두서없이 블로그 만들면서 들었던 생각들을 작성</p></blockquote><p>19.01.22</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">블로그에 disqus를 사용해서 댓글 기능을 추가했다.</span><br><span class="line"></span><br><span class="line">자세히는 모르지만 최근 패치 이후 언어 선택에 한글이 빠져있는 문제점이 생겼는데</span><br><span class="line">구글링 해보니 크롬 개발자 모드로 꼼수 부려서 한글이 나오게 하는 방법이 있어서 그렇게 적용해 놓았다.</span><br></pre></td></tr></table></figure><p><br><br></p><p>19.01.23</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line">블로그 생성한지 일주일이 지나가고 있지만 아직 모르는 것이 너무 많다ㅠ</span><br><span class="line">테마를 끌어와서 내 취향대로 설정하고 싶은데 마음대로 잘 안되네...</span><br><span class="line"></span><br><span class="line">아직까지 마크다운 사용에도 익숙하지 않고..</span><br><span class="line">저번 주까지 하루패드 에디터를 사용해서 작성했지만 에디터에서 보여지는 결과물과 Github page에서 출력되는 결과물이 달라서 Typora 에디터로 바꿔봤다(하루패드는 화면이 분할되서 좋았고, Typora는 UI가 이쁘다)</span><br><span class="line">일단은 plugin 기능들까지 사용하면서 최대한 나만의 개발환경을 만들어 보려고 노력중이다...</span><br><span class="line"></span><br><span class="line">내일까지 제출해야 하는 제안서에 시간을 많이 할애하고 있는 것도 있지만,</span><br><span class="line">포스팅 환경이 아직 잘 구성되지 못해서 업로드가 더딘 것 같다...</span><br><span class="line"></span><br><span class="line">적어도 개강 전까지 최대한 빨리 적응해서 능숙해 졌으면 좋겠다</span><br></pre></td></tr></table></figure><p><br><br></p><p>19.01.24</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">오늘은 알고리즘 공부했음... 언젠가 이것도 정리해서 올릴 수 있기를...</span><br><span class="line"></span><br><span class="line">글도 얼른 정리해야하는데...</span><br><span class="line">hexo에서 &apos;== ==&apos;, &apos;++ ++&apos; 등 하이라이트랑 밋줄이 표시 안되는 문제가 있어서 플러그인 관련해서 조금 살펴보고 있다...</span><br><span class="line">Markdown 에디터로 작성한 글이랑 서버에 올린 글이랑 다르니까 영 찝찝해서 아직 이것 저것 공부하는 중이다...</span><br></pre></td></tr></table></figure><p><br><br><br></p>]]></content>
     
     <summary type="html">
     
@@ -32,7 +32,7 @@
         &lt;blockquote&gt;
 &lt;p&gt;그냥 두서없이 블로그 만들면서 들었던 생각들을 작성&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;19.01.23&lt;/p&gt;
+&lt;p&gt;19.01.22&lt;/p&gt;
 &lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;
       
     
@@ -83,17 +83,16 @@
     <link href="http://taejin0323.github.io/2019/01/22/spring/"/>
     <id>http://taejin0323.github.io/2019/01/22/spring/</id>
     <published>2019-01-22T08:30:00.000Z</published>
-    <updated>2019-01-23T08:18:44.013Z</updated>
+    <updated>2019-01-24T09:49:31.516Z</updated>
     
-    <content type="html"><![CDATA[<blockquote><p>가장 좋은 문서는 spring.io 공식 홈페이지에서 제공하는 documents 입니다. 개인적으로 공부하면서 작성하는 문서라 틀린 부분이 있을 수 있으니, 반드시 공식 문서를 참조하시기 바랍니다.</p><blockquote><p><a href="https://spring.io" target="_blank" rel="noopener">스프링 공식 홈페이지</a><br><a href="https://github.com/spring-projects" target="_blank" rel="noopener">소스코드</a><br><a href="https://spring.io/guides" target="_blank" rel="noopener">가이드</a></p></blockquote></blockquote><h1 id="스프링"><a href="#스프링" class="headerlink" title="스프링"></a>스프링</h1><p>:book: 목차 :book:</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">* 뒤에 내용을 추가하면서 목차도 추가!</span><br></pre></td></tr></table></figure><ol><li><a href="#1.-스프링(Spring">스프링(Spring)</a>)</li></ol><hr><h3 id="1-스프링-Spring"><a href="#1-스프링-Spring" class="headerlink" title="1. 스프링(Spring)"></a>1. 스프링(Spring)</h3><p>공식 홈페이지 첫 화면을 보면 ==Spring : the source for modern java== 라고 적혀있다.</p><p>이 문장만으로는 이해하기 어려워서 구글에 검색을 해도 <strong>스프링</strong>이란 한 문장으로 이런 것이다 라고 정의내리기 어려운 것 같다.</p><p>우리나라에서는 스프링하면 스프링 프레임워크(Spring framework)를 주로 이야기하지만, 스프링은</p><div style="border-style:dashed; color:grey; text-align:center"><br>자바 엔터프라이즈 개발을 편하게 해주는 오픈소스 경량급 애플리케이션 프레임워크<br><br></div>]]></content>
+    <content type="html"><![CDATA[<blockquote><p>가장 좋은 문서는 <a href="http://spring.io" target="_blank" rel="noopener">spring.io</a> 공식 홈페이지에서 제공하는 documents 입니다. 개인적으로 공부하면서 작성하는 문서라 틀린 부분이 있을 수 있으니, 반드시 공식 문서를 참조하시기 바랍니다.</p><blockquote><p><a href="https://spring.io" target="_blank" rel="noopener">스프링 공식 홈페이지</a><br><a href="https://github.com/spring-projects" target="_blank" rel="noopener">소스코드</a><br><a href="https://spring.io/guides" target="_blank" rel="noopener">가이드</a></p></blockquote></blockquote><h1 id="스프링"><a class="markdownIt-Anchor" href="#스프링"></a> 스프링</h1><p>목차</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">* 뒤에 내용을 추가하면서 목차도 추가!</span><br></pre></td></tr></table></figure><ol><li><a href="#1.-%EC%8A%A4%ED%94%84%EB%A7%81">스프링(Spring)</a></li><li><a href="#2.-%EC%8A%A4%ED%94%84%EB%A7%81-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%EB%9E%80">스프링 프레임워크란</a></li><li><a href="#POJO">POJO</a></li><li><a href="#Spring-bean">Spring bean</a></li></ol><hr><h3 id="1-스프링"><a class="markdownIt-Anchor" href="#1-스프링"></a> 1. 스프링</h3><p>공식 홈페이지 첫 화면을 보면 <u>Spring : the source for modern java</u> 라고 적혀있습니다.</p><p>이 문장만으로는 이해하기 어려워서 구글에 검색을 해도 우리나라에서는 스프링하면 __스프링 프레임워크(Spring framework)__를 주로 이야기해서 스프링의 정의에 대해 다루는 자료는 그렇게 많지 않았습니다.</p><p>그럼에도 스프링이란 무엇인지 명확하게 짚고 넘어가는 것이 좋을 것 같습니다.</p><p>**스프링(Spring)**은</p><div style="border-style:dashed; color:grey; text-align:center"><br>자바 엔터프라이즈 개발을 편하게 해주는 오픈소스 경량급 애플리케이션 프레임워크<br><br></div><p>라는 정의를 가지고 있다.</p><p>얼핏 보면 감이 잘 안 잡히기 때문에 시간을 내셔서 제가 참조했던 '12bme’님의 포스트[^1}]를 자세히 읽어보시고 이해하시면 좋을 것 같습니다.</p><p>스프링 공식 홈페이지에서 <strong>PROJECTS</strong> 탭을 보면 스프링을 활용한 다양한 프로젝트들을 보실 수 있습니다.</p><ul><li>Spring Boot</li><li>Spring Framework</li><li>Spring Cloud</li><li>Etc …</li></ul><p>간단하게 스프링은 <mark>이런 다양한 프로젝트들의 디자인이 되는 모듈</mark>이라고 생각하시면 될 것 같습니다!</p><blockquote><p>⏫<a href="#8-spring">Top</a></p></blockquote><h3 id="2-스프링-프레임워크란"><a class="markdownIt-Anchor" href="#2-스프링-프레임워크란"></a> 2. 스프링 프레임워크란</h3><ul><li>자바 엔터프라이즈 개발을 편하게 해주는 경량급 오픈소스 애플리케이션 프레임워크</li><li><strong>Lightweight Java Applicaion Framework</strong><ul><li>목표: <strong>POJO 기반의</strong> Enterprise Application 개발을 쉽고 편하게 할 수 있도록 한다.</li><li>Java Application을 개발하는데 필요한 하부구조(Infrastructure)를 포괄적으로 제공한다.</li><li>Spring이 하부구조를 처리하기 때문에 개발자는 Application 개발에 집중할 수 있다.</li></ul></li><li>간단히 스프링(Spring)이라고도 불린다.</li><li>동적인 웹 사이트를 개발하기 위한 여러 가지 서비스를 제공한다.</li><li>대한민국 공공기관의 웹 서비스 개발 시 사용을 권장하고 있는 전자 정부 표준 프레임워크의 기반 기술</li></ul><blockquote><p>⏫<a href="#8-spring">Top</a>   ​</p></blockquote><p><br><br><br></p>]]></content>
     
     <summary type="html">
     
       
       
         &lt;blockquote&gt;
-&lt;p&gt;가장 좋은 문서는 spring.io 공식 홈페이지에서 제공하는 documents 입니다. 개인적으로 공부하면서 작성하는 문서라 틀린 부분이 있을 수 있으니, 반드시 공식 문서를 참조하시기 바랍니다.&lt;/p&gt;
-&lt;blockquo
+&lt;p&gt;가장 좋은 문서는 &lt;a href=&quot;http://spring.io&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;spring.io&lt;/a&gt; 공식 홈페이지에서 제공하는 documents 입니다. 개인적으로 공부하면서 
       
     
     </summary>
