@@ -102,3 +102,14 @@ about:
   info: 아직 많이 부족하지만 하나씩 천천히...
   address: Republic of Korea
   email: taejin0323@gmail.com
+
+markdown_it_plus:
+    highlight: true
+    html: true
+    xhtmlOut: true
+    breaks: true
+    langPrefix:
+    linkify: true
+    typographer:
+    quotes: “”‘’
+    pre_class: highlight
