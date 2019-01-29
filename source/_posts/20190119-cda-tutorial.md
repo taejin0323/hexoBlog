@@ -67,7 +67,7 @@ date: 2019-01-19 19:07:59
 
 ## 4. CDA Document의 주요 요소들
 
-<center> {% img /img/componentsOfCDA.png CDA_documents} </center>
+![CDA document](/img/componentsOfCDA.png)
 
 - **The Header**
   - &lt;ClinicalDocument&gt; 태그와 &lt;structuredBody&gt; 태그 사이에 있다
