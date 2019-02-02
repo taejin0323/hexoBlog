@@ -7,7 +7,7 @@ categories:
   - WEB
   - SPRING
 tags:
-  - SPRING FRAMEWORK
+  - FRAMEWORK
   - MODULES
 date: 2019-01-31 19:08:32
 subtitle: 스프링 프레임워크의 약 20개의 모듈들
