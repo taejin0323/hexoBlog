@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://taejin0323.github.io/2019/02/02/spring-keywords/</loc>
+    
+    <lastmod>2019-02-03T16:40:40.197Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://taejin0323.github.io/2019/02/04/spring-pojo/</loc>
+    
+    <lastmod>2019-02-03T16:04:34.657Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://taejin0323.github.io/2019/01/31/spring-module/</loc>
     
     <lastmod>2019-02-02T07:21:34.659Z</lastmod>
@@ -12,13 +26,6 @@
     <loc>http://taejin0323.github.io/2019/01/22/spring/</loc>
     
     <lastmod>2019-02-02T07:21:33.524Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://taejin0323.github.io/2019/02/02/spring-keywords/</loc>
-    
-    <lastmod>2019-02-02T07:19:49.968Z</lastmod>
     
   </url>
   
