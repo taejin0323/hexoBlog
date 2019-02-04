@@ -12,22 +12,23 @@ tags:
 date: 2019-02-04 00:59:18
 subtitle: POJO에 대해서 알아보자
 cover: https://spring.io/img/spring-by-pivotal.png
+
 ---
 
 ### Reference
+
 [Plain Old Java Object-위키](https://ko.wikipedia.org/wiki/Plain_Old_Java_Object)
 [POJO(Plain Old Java Object)](https://itewbm.tistory.com/entry/POJOPlain-Old-Java-Object)
 
 ------
 
-​	:book: **목차** :book:
+:book: **목차** :book:
 
 - [POJO](#POJO)
 
 
 
 ` 아직 많은 것을 알지 못하기 때문에 자세하고 정확한 내용은 제가 참조한 사이트나 따로 검색 또는 책을 통해 알아보는 것을 권장드립니다.`
-
 
 #### POJO
 
@@ -41,7 +42,10 @@ cover: https://spring.io/img/spring-by-pivotal.png
 
 > Any fool can write code that a computer an understand. Good programmers write code that humans can understand.
 > 컴퓨터가 이해하는 코드는 어느 바보나 짤 수 있다. 좋은 프로그래머는 사람이 이해하는 코드를 짠다.
+>
 > > Martin Fowler, <<리팩토링>>
+
+<img style="float:right; height:150px;" src="https://martinfowler.com/img/mf-cologne.jpg">
 
  POJO는 리팩토링과 애자일 소프트웨어 개발로 유명한 영국의 소프트웨어 개발자 **마틴 파울러** 가 2000년 가을에 열렸던 어느 컨퍼런스의 발표를 준비하면서 처음 사용한 단어입니다. 그는 당시 <u>EJB(Enterprise JavaBean) 보다는 단순한 자바 오브젝트에 도메인 로직을 넣어 사용하는 것이 여러가지 장점이 있는데 왜 사람들이 EJB가 아닌 '평범한 자바 오브젝트'를 사용하기를 꺼려하하는지에 대해 의문을 가졌습니다</u> 그래서 그의 생각을 널리 알리기 위해 그는 개발자들의 심리를 이용한 기발한 전략을 세웠습니다. POJO라는 용어를 만들고 이를 기반으로한 기술을 사용한다고 발표하여 다른 개발자들에게 마치 새로운 첨단 기술인 듯한 인상을 주었습니다.
  정리하자면, 마틴 파울러는
@@ -56,9 +60,10 @@ cover: https://spring.io/img/spring-by-pivotal.png
 
 
 이제 겨우 POJO의 형체가 희미하게 보이는 것 같습니다. 이 친구를 더 자세히 알기 위해선,
+
 - EJB(Enterprise JavaBean)는 무엇이며 어떤 문제점이 있는가
 - POJO란 그럼 그저 EJB 이전의 방식으로 돌아가는 것인가
-를 알아야 겠다고 생각했습니다.
+  를 알아야 겠다고 생각했습니다.
 
 
 
