@@ -2,16 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://taejin0323.github.io/2019/02/04/spring-pojo/</loc>
+    <loc>http://taejin0323.github.io/2019/02/05/os-overview/</loc>
     
-    <lastmod>2019-02-04T13:37:29.471Z</lastmod>
+    <lastmod>2019-02-05T11:20:52.911Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://taejin0323.github.io/2019/02/02/spring-keywords/</loc>
     
-    <lastmod>2019-02-04T13:11:44.273Z</lastmod>
+    <lastmod>2019-02-04T13:44:16.166Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://taejin0323.github.io/2019/02/04/spring-pojo/</loc>
+    
+    <lastmod>2019-02-04T13:37:29.471Z</lastmod>
     
   </url>
   
