@@ -1,3 +1,20 @@
+---
+title: 19/02/05 회의 내용
+author:
+  nick: TAEJIN
+  link: null
+categories:
+  - IHIS
+  - TASK
+tags:
+  - ETC
+date: 2019-02-07 16:00:00
+subtitle: 신규과제 관련 내용
+cover:
+
+
+---
+
 # Keywords
 
 **AiC, PRO, Digital Health, Caregiver, Measure/Assessment**
@@ -33,7 +50,7 @@
 - 세계보건기구에서 Quality of Life(QOL)이란 개념을 정의
 - 환자진료 영역에서는 Health-related quality of life(HRQOL)이라는 한정된 개념 사용
 
-![qol](https://images.slideplayer.com/35/10426893/slides/slide_2.jpg)
+<img height="400px" src="https://images.slideplayer.com/35/10426893/slides/slide_2.jpg">
 
 - 이러한 HRQOL과 PRO는 비슷한 개념을 가지지만, **환자 중심의 치료** 의 중요성이 높아지면서 환자가 직접 의료진에게 보고하는 성과의 중요성을 강조하기 위해서 PRO라는 용어가 등장하였다.
 
@@ -74,7 +91,6 @@
 #### Akaike information criterion
 
 - 머신 러닝 기술에서 알고리즘을 디자인할 때 고려되는 요소 Overfitting, Regularization, Model Selection 등이 있음
-
 - 주어진 데이터 세트에 대한 통계 모델의 상대적 품질을 평가하는 '모델 선택이론(Model selection theory)'에서 나오는 개념
 
 
