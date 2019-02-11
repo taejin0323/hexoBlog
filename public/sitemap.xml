@@ -2,16 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://taejin0323.github.io/2019/02/08/task1/</loc>
+    <loc>http://taejin0323.github.io/2019/02/11/spring-IoC/</loc>
     
-    <lastmod>2019-02-08T14:37:30.996Z</lastmod>
+    <lastmod>2019-02-11T09:39:44.507Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://taejin0323.github.io/2019/02/04/spring-pojo/</loc>
+    
+    <lastmod>2019-02-11T08:07:32.592Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://taejin0323.github.io/2019/02/07/lab-meeting1/</loc>
     
-    <lastmod>2019-02-08T14:30:41.770Z</lastmod>
+    <lastmod>2019-02-11T06:33:36.915Z</lastmod>
     
   </url>
   
@@ -26,13 +33,6 @@
     <loc>http://taejin0323.github.io/2019/02/02/spring-keywords/</loc>
     
     <lastmod>2019-02-04T13:44:16.166Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://taejin0323.github.io/2019/02/04/spring-pojo/</loc>
-    
-    <lastmod>2019-02-04T13:37:29.471Z</lastmod>
     
   </url>
   
@@ -103,13 +103,6 @@
     <loc>http://taejin0323.github.io/search/index.html</loc>
     
     <lastmod>2019-01-16T07:11:46.504Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://taejin0323.github.io/2019/01/16/hello-world/</loc>
-    
-    <lastmod>2019-01-16T05:58:31.302Z</lastmod>
     
   </url>
   
