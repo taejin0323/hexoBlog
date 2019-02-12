@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://taejin0323.github.io/2019/02/12/os-overview-2/</loc>
+    
+    <lastmod>2019-02-12T10:16:34.190Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://taejin0323.github.io/2019/02/12/feb-report/</loc>
+    
+    <lastmod>2019-02-12T10:16:32.774Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://taejin0323.github.io/2019/01/23/blog-issues/</loc>
+    
+    <lastmod>2019-02-12T10:02:13.293Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://taejin0323.github.io/2019/02/05/os-overview/</loc>
+    
+    <lastmod>2019-02-12T09:53:41.142Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://taejin0323.github.io/2019/02/11/spring-IoC/</loc>
     
     <lastmod>2019-02-11T09:39:44.507Z</lastmod>
@@ -23,13 +51,6 @@
   </url>
   
   <url>
-    <loc>http://taejin0323.github.io/2019/02/05/os-overview/</loc>
-    
-    <lastmod>2019-02-07T09:11:58.022Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://taejin0323.github.io/2019/02/02/spring-keywords/</loc>
     
     <lastmod>2019-02-04T13:44:16.166Z</lastmod>
@@ -47,13 +68,6 @@
     <loc>http://taejin0323.github.io/2019/01/22/spring/</loc>
     
     <lastmod>2019-02-02T07:21:33.524Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://taejin0323.github.io/2019/01/23/blog-issues/</loc>
-    
-    <lastmod>2019-01-31T07:01:46.810Z</lastmod>
     
   </url>
   

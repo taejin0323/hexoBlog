@@ -1,5 +1,5 @@
 ---
-title: 운영체 - Overview_2
+title: 운영체제 - Overview_2
 author:
   nick: TAEJIN
   link: null

@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://taejin0323.github.io/"/>
-  <updated>2019-02-11T09:39:44.507Z</updated>
+  <updated>2019-02-12T10:16:32.774Z</updated>
   <id>http://taejin0323.github.io/</id>
   
   <author>
@@ -15,6 +15,66 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2월달 낙서장</title>
+    <link href="http://taejin0323.github.io/2019/02/12/feb-report/"/>
+    <id>http://taejin0323.github.io/2019/02/12/feb-report/</id>
+    <published>2019-02-12T09:58:36.000Z</published>
+    <updated>2019-02-12T10:16:32.774Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>그냥 두서없이 블로그 만들면서 들었던 생각들을 작성</p></blockquote><p>19.01.22</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br></pre></td><td class="code"><pre><span class="line">1월에 이어서 2월에도 일기처럼 매일 작성할까 고민만 하고 나중에 다시 볼거 같지 않아서 작성 안하고 있었는데...</span><br><span class="line">틈틈히 포스팅 작성은 하고 있지만 이것저것 일이 생겨서 매일 업로드 하는게 버거워지는 것 같아서 이거라도 작성해야 겠다.</span><br><span class="line">그나마 별 생각없이 적을 수 있으니..</span><br><span class="line"></span><br><span class="line">곧 개강이 다가오다 보니 자꾸 조바심이 생기는 것 같다.. 자꾸 판만 벌려 놓으니...</span><br><span class="line">- 신규 과제에 대한 조사 (설문지 분석, 관련 논문 분석, ...)</span><br><span class="line">- Spring 공부... 시작한지 1달이 지나가는데 진도를 빨리 빼야겠다</span><br><span class="line">- IoC/DI</span><br><span class="line">- AOP</span><br><span class="line">- PSA</span><br><span class="line">빨리 이거 정리하고</span><br><span class="line">- Restful API</span><br><span class="line">로 넘어가야 한다</span><br><span class="line">- Python web crawling... 그냥 쉬엄쉬엄 보는 중</span><br><span class="line">- 운영체제 복습... 방학이라 복습이나 해야지 하고 있는데, 그럴 시간이 생각보다 없다ㅠ</span><br><span class="line">- CDA 공부... 연구실 스터디 멈춘 상태</span><br><span class="line">- TOEIC 공부... 욕심내지 않고 1주일에 한번씩 풀어보는 것을 목표</span><br><span class="line"></span><br><span class="line">흠.. 일단은</span><br><span class="line">1. 신규 과제 관련 조사</span><br><span class="line">2. Spring 공부... 혼자 하려니 시간이 많이 걸리는 문제가 있지만ㅠ</span><br><span class="line">3. Python web crawling... 이거라도 후딱 끝내야지</span><br><span class="line">3가지에 집중(운체는 2장까지만 일단...)</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;그냥 두서없이 블로그 만들면서 들었던 생각들을 작성&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;19.01.22&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;
+      
+    
+    </summary>
+    
+      <category term="Scratch" scheme="http://taejin0323.github.io/categories/Scratch/"/>
+    
+    
+      <category term="diary" scheme="http://taejin0323.github.io/tags/diary/"/>
+    
+      <category term="Feb" scheme="http://taejin0323.github.io/tags/Feb/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>운영체제 - Overview_2</title>
+    <link href="http://taejin0323.github.io/2019/02/12/os-overview-2/"/>
+    <id>http://taejin0323.github.io/2019/02/12/os-overview-2/</id>
+    <published>2019-02-12T09:51:53.000Z</published>
+    <updated>2019-02-12T10:16:34.190Z</updated>
+    
+    <content type="html"><![CDATA[<p>📖 <strong>목차</strong> 📖</p><ol start="2"><li><a href="#%EC%BB%B4%ED%93%A8%ED%84%B0-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B5%AC%EC%A1%B0">컴퓨터 시스템 구조</a><br>2.1 <a href="#21-%EC%BB%B4%ED%93%A8%ED%84%B0-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%98-%EB%8F%99%EC%9E%91">컴퓨터 시스템의 동작</a></li></ol><hr><p>#컴퓨터 시스템 구조</p><p>##2.1 컴퓨터 시스템의 동작</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;📖 &lt;strong&gt;목차&lt;/strong&gt; 📖&lt;/p&gt;
+&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;&lt;a href=&quot;#%EC%BB%B4%ED%93%A8%ED%84%B0-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B5%AC%EC%A1%B0&quot;&gt;컴퓨
+      
+    
+    </summary>
+    
+      <category term="OS" scheme="http://taejin0323.github.io/categories/OS/"/>
+    
+    
+      <category term="OS" scheme="http://taejin0323.github.io/tags/OS/"/>
+    
+      <category term="운영체" scheme="http://taejin0323.github.io/tags/%EC%9A%B4%EC%98%81%EC%B2%B4/"/>
+    
+  </entry>
   
   <entry>
     <title>스프링 - IoC Containers</title>
@@ -72,11 +132,11 @@
   </entry>
   
   <entry>
-    <title>운영체제 - Overview</title>
+    <title>운영체제 - Overview_1</title>
     <link href="http://taejin0323.github.io/2019/02/05/os-overview/"/>
     <id>http://taejin0323.github.io/2019/02/05/os-overview/</id>
     <published>2019-02-05T10:29:30.000Z</published>
-    <updated>2019-02-07T09:11:58.022Z</updated>
+    <updated>2019-02-12T09:53:41.142Z</updated>
     
     <content type="html"><![CDATA[<p>📖 <strong>목차</strong> 📖</p><ol><li><a href="#%EC%86%8C%EA%B0%9C">소개</a><br>1.1 <a href="#11-%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C">운영체제</a><br>1.2 <a href="#12-%EB%A9%94%EC%9D%B8%ED%94%84%EB%A0%88%EC%9E%84-%EC%8B%9C%EC%8A%A4%ED%85%9C">메인프레임 시스템</a><br>1.3 <a href="#13-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%B2%98%EB%A6%AC-%EC%8B%9C%EC%8A%A4%ED%85%9C">실시간 처리 시스템</a><br>1.4 <a href="#14-%EB%B6%84%EC%82%B0-%EC%B2%98%EB%A6%AC-%EC%8B%9C%EC%8A%A4%ED%85%9C">분산 처리 시스템</a><br>1.5 <a href="#15-%EB%8B%A4%EC%A4%91%EC%B2%98%EB%A6%AC-%EC%8B%9C%EC%8A%A4%ED%85%9C">다중처리 시스템</a><br>1.6 <a href="16-%EC%A7%91%EB%8B%A8-%EC%8B%9C%EC%8A%A4%ED%85%9C">집단 시스템</a></li></ol><hr><h1 id="1-소개"><a class="markdownIt-Anchor" href="#1-소개"></a> 1. 소개</h1><h2 id="11-운영체제"><a class="markdownIt-Anchor" href="#11-운영체제"></a> 1.1 운영체제</h2><img src="https://www.tutorialspoint.com/operating_system/images/conceptual_view.jpg"><img style="float:right;" src="https://upload.wikimedia.org/wikipedia/ko/thumb/a/a3/Operating_system_placement_kor.png/200px-Operating_system_placement_kor.png"><ul><li><p>운영체제(Operating System)란?</p><p>– 컴퓨터 하드웨어를 관리하는 프로그램<br>– 응용 프로그램의 토대를 제공해주는 프로그램<br>– <strong><span style="color:orange;">사용자</span>와 <span style="color:red;">하드웨어</span> 사이에 중간 매개체 역할</strong>을 해주는 프로그램</p></li><li><p>운영체제 범위에 대한 정의<br>🐙 하드웨어의 종류와 용도가 다양해서 OS의 범위는 모호하게 정의됩니다​<br>정의 1) 운영체제를 구입하였을 때 포함되어 있는 모든 것<br><u>정의 2) 항상 수행되고 있는 유일한 프로그램(보통 <strong>Kernel</strong> 이라고 한다)</u><br>✅ 대체로 2번 째 정의를 사용함</p></li></ul><p>❗️ 그림에서 처럼 운영체제는 컴퓨터의 사용자와 컴퓨터 하드웨어 사이에 있기 때문에 운영체제를 바라보는 관점도 두 가지로 분류할 수 있습니다.</p><h3 id="111-span-stylecolororange사용자-관점span"><a class="markdownIt-Anchor" href="#111-span-stylecolororange사용자-관점span"></a> 1.1.1 <span style="color:orange;">사용자 관점</span></h3><ul><li><p><strong>컴퓨터의 용도</strong> 에 따라 OS의 설계 방향이 결정 됩니다.</p><p>– 개인용 컴퓨터(Home PC user)<br>– 메인프레임, 미니컴퓨터(Mainframe, minicomputer)<br>– 워크스테이션(Workstation)<br>– 휴대용 컴퓨터(Mobile devices)</p></li></ul><h3 id="112-span-stylecolorred시스템-관점span"><a class="markdownIt-Anchor" href="#112-span-stylecolorred시스템-관점span"></a> 1.1.2 <span style="color:red;">시스템 관점</span></h3><ul><li><strong>자원 할당자(resource allocator)</strong><br>컴퓨터 자원(CPU 시간, 메모리 공간, 파일 저장 공간, 입출력 장치)의 할당은 공정해야 하며 효율적으로 이루어져야 합니다.</li><li><strong>제어 프로그램(control program)</strong><br>사용자 프로그램의 실행을 감독하여 오류와 컴퓨터 오용을 방지하고 입출력 장치의 제어와 동작을 관리 합니다.</li></ul><h3 id="113-운영체제의-목표"><a class="markdownIt-Anchor" href="#113-운영체제의-목표"></a> 1.1.3 운영체제의 목표</h3><ul><li><span style="color:orange;">사용자</span>에게 편리성 제공</li><li><span style="color:red;">컴퓨터 시스템</span>의 효율적 운영</li></ul><p>🐙 <strong>사용자에게 컴퓨터에서 프로그램을 효율적이고 편리하게 실행할 수 있는 환경을 제공</strong> 하는 것 입니다!!</p><h2 id="12-메인프레임-시스템"><a class="markdownIt-Anchor" href="#12-메인프레임-시스템"></a> 1.2 메인프레임 시스템</h2><h3 id="121-일괄처리-시스템1950"><a class="markdownIt-Anchor" href="#121-일괄처리-시스템1950"></a> 1.2.1 일괄처리 시스템(1950)</h3><p>🐙 <strong>Batch processing system이란 처리속도를 향상 시키기 위해 유사한 요구를 필요로 하는 여러개의 작업을 함께 모아 단일 작업으로 일괄 처리하는 시스템입니다</strong></p><ul><li><p>운영체제는 항상 <strong>메모리</strong> 에 상주하고, 주 임무는 <strong>하나의 작업에서 다음 작업으로 제어를 자동적으로 옮기는 것</strong></p></li><li><p>작업을 실행하면 끝날 때까지 다른 작업을 못함</p></li><li><p><span style="color:red">기계적 입출력 장치가 전자적 장치의 속도보다 상대적으로 느려 CPU가 종종 쉬는 경우가 발생</span></p></li></ul><p><span style="color:blue">직접 접근(direct access)이 가능한 디스크의 도입 : Job scheduling과 multi-programming이 가능하게 됨</span></p><h3 id="122-다중-프로그램-시스템1960"><a class="markdownIt-Anchor" href="#122-다중-프로그램-시스템1960"></a> 1.2.2 다중 프로그램 시스템(1960)</h3><p>🐙 <strong>Multi-program system 이란 여러 개의 프로그램을 동시에 메모리에 적재하여 하나의 프로그램이 대기 상태가 되면 그 동안 다른 프로그램을 실행하는 시스템입니다</strong></p><ul><li>입출력과 프로그램의 실행을 병행으로 수행할 수 있어 CPU의 사용 효율(utilization)이 증가</li><li>다중 프로그래밍에서 운영체제는 사용자를 대신하여 의사결정을 수행해야 함<br>– <strong>Job scheduling</strong> : 디스크에 있는 작업 저장소(Job pool)에서 작업을 선택하여 메모리로 옮기는 것<br>– <strong>CPU scheduling</strong> : 실행 중인 작업이 대기 상태가 되었을 때 메모리에 있는 작업 중 하나를 선택하여 CPU에 할당하는 것</li><li><span style="color:red">여러 프로그램이 동시에 메모리에 상주하므로 메모리 관리가 복잡</span></li><li>Multi programming을 제공하는 일괄처리 시스템은 <span style="color:red">CPU의 사용 효율은 높였지만 사용자와 컴퓨터 간에 상호작용은 제공하지 못함</span></li></ul><h3 id="123-시분할-시스템1960"><a class="markdownIt-Anchor" href="#123-시분할-시스템1960"></a> 1.2.3 시분할 시스템(1960)</h3><p>🐙 <strong>시분할(Time sharing) 또는 멀티태스킹(multi-tasking)은 다중 프로그래밍과 달리 정해진 시간이 되면 무조건 다음 순서의 작업을 실행하는 방식</strong> 으로 교대하는 시간이 매우 짧아 프로그램이 실행되는 동안 사용자는 컴퓨터와 상호작용이 가능한 시스템입니다</p><ul><li>사용자와 시스템 간에 직접 상호작용이 가능한 시스템을 <strong>대화식 컴퓨터 시스템(inter-active computer system)</strong> 이라 하고 이런 시스템은 응답시간(response time)이 짧아야 함</li><li>여러 사용자가 동시에 컴퓨터를 사용할 수 있음</li><li>메모리에 적재되어 실행 중인 프로그램을 <strong>프로세스(process)</strong> 라고 함</li><li>많은 사용자의 프로그램을 동시에 수행하기 위해서는 <em>주기억장치</em> 의 용량으로는 부족<br><span style="color:blue">디스크를 주기억장치의 보조 저장 장치로 활용으로 문제를 해결하며 가장 널리 사용되는 기법으로 가상 메모리(virtual memory)</span> 가 있습니다</li></ul><h2 id="13-실시간-처리-시스템"><a class="markdownIt-Anchor" href="#13-실시간-처리-시스템"></a> 1.3 실시간 처리 시스템</h2><p>🐙 <strong>Real time processing system 이란</strong> 프로세서 작동이나 데이터 흐름에 엄격한 시간 제약이 있을 때 사용되는 방식으로 <strong>데이터 처리 요구가 있는 즉시 수행하여 결과를 산출하는 시스템입니다</strong></p><ul><li>보통 특수 목적용(우주선 운행, 레이더 추적기, 핵물리학 실험, 은행의 온라인 업무)<br>주의) <u>실시간과 빠르다는 것은 다른 개념!!</u></li><li>엄격한 실시간 시스템(hard real-time system) : 중요한 작업이 정해진 시간 내에 완료됨을 보장</li><li>완화된 실시간 시스템(soft real-time system) : 중요한 작업이 우선순위를 가지지만 엄격하게 정해진 시간 내에 완료됨을 보장하지는 않음</li></ul><h2 id="14-분산-처리-시스템"><a class="markdownIt-Anchor" href="#14-분산-처리-시스템"></a> 1.4 분산 처리 시스템</h2><p>🐙 <strong>Distributed processing system 이란</strong> 다중처리 시스템과 마찬가지로 <strong>여러 프로세서(컴퓨터)를 사용</strong>하지만 밀결합 형태가 아닌 소결합(loosely coupled) 형태로 컴퓨터 버스나 클럭을 공유하지 않고, <strong>네트워크를 통해 통신하여 하나의 작업을 처리하는 시스템입니다</strong></p><ul><li>네트워크는 사용하는 프로토콜, 망의 크기, 전송 매체에 따라 분류<br>Ex) 망의 크기 : LAN, MAN, WAN</li></ul><h3 id="141-클라이언트-서버-시스템"><a class="markdownIt-Anchor" href="#141-클라이언트-서버-시스템"></a> 1.4.1 클라이언트-서버 시스템</h3><ul><li>서버 시스템은 크게 두 가지로 분류<ul><li><dl><dt>계산 서버 시스템(compute-server system)</dt><dd>클라이언트로 부터 요청을 받아 그것을 대신 수행해 준 다음에 클라이언트에게 결과를 되돌려 줌</dd></dl></li><li><dl><dt>파일 서버 시스템(file-server system)</dt><dd>클라이언트에게 파일 시스템 인터페이스를 제공, 클라이언트는 이 인터페이스를 통해 파일을 생성, 갱신, 삭제</dd></dl></li></ul></li></ul><h2 id="15-다중처리-시스템"><a class="markdownIt-Anchor" href="#15-다중처리-시스템"></a> 1.5 다중처리 시스템</h2><p>🐙 <strong>Multi-processing system 이란 여러 개의 CPU와 하나의 주기억장치를 이용하여 여러 개의 프로그램을 동시에 처리하는 방식을 취하는 시스템입니다</strong></p><ul><li>병렬 시스템(parallel system) 또는 밀결합 시스템(tightly coupled system) 이라고도 함</li><li><strong>처리율(throughput)</strong> : <u>N개의 프로세서를 사용한다고 처리율이 N배 증가하지는 않음 </u></li><li><strong>경제성</strong> : 여러 개의 단일 프로세서 시스템을 사용하는 것 보다 저렴</li><li><strong>신뢰성</strong> : 하나의 CPU가 고장나더라도 다른 CPU를 이용하여 업무를 처리할 수 있음<br>수행되는 하드웨어의 수에 비례하여 서비스를 계속 제공할 수 있는 능력(graceful degradation)</li></ul><h2 id="16-집단-시스템"><a class="markdownIt-Anchor" href="#16-집단-시스템"></a> 1.6 집단 시스템</h2><p>🐙 <strong>Clustered system 이란 병렬 시스템, 분산 시스템과 마찬가지로 다중 CPU를 사용하지만 여러 개의 시스템을 밀결합하여 사용한다는 측면에서 다른 시스템입니다</strong></p><ul><li>집단화(clustering)의 목적은 높은 가용성</li><li>대칭형 방식 : 각 컴퓨터는 모두 응용 프로그램을 수행하는 동시에 다른 컴퓨터의 상태를 감시</li><li>비대칭형 방식: 하나의 컴퓨터는 대기상태로 있고 나머지는 활성화되어 응용 프로그램을 수행</li></ul><h2 id="17-컴퓨팅-환경"><a class="markdownIt-Anchor" href="#17-컴퓨팅-환경"></a> 1.7 컴퓨팅 환경</h2><ul><li><p>초창기 컴퓨팅 환경은 중앙집중 --&gt; 유선통신 기술의 발달로 분산 컴퓨팅 환경 등장 --&gt; 무선통신 기술의 발달로 이동컴퓨팅(mobile computing) 환경 등장</p></li><li><p>인터넷의 발달로 현재의 컴퓨팅 환경을 웹 기반 컴퓨팅이라고 함</p></li><li><p>실시간 운영체제를 각종 기계와 장치에 내장하여 사용하는 컴퓨팅 환경을 <strong>임베디드 컴퓨팅(embedded computing)</strong> 환경이라고 함</p></li></ul><div style="border:3px; border-style:dashed; border-color:grey; text-color:black">  <b> * 정리 * </b><br>  1세대 : 일괄처리 시스템 <br>  2세대 : 다중프로그래밍, 다중 처리, 시분할, 실시간 처리 시스템<br>  3세대 : 다중모드 <br>  4세대 : 분산 처리 시스템  <br></div><p><br><br><br></p>]]></content>
     
@@ -95,9 +155,9 @@
       <category term="OS" scheme="http://taejin0323.github.io/categories/OS/"/>
     
     
-      <category term="운영체제" scheme="http://taejin0323.github.io/tags/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/"/>
-    
       <category term="OS" scheme="http://taejin0323.github.io/tags/OS/"/>
+    
+      <category term="운영체제" scheme="http://taejin0323.github.io/tags/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/"/>
     
   </entry>
   
@@ -215,20 +275,20 @@
       <category term="HL7" scheme="http://taejin0323.github.io/categories/IHIS/HL7/"/>
     
     
+      <category term="HL7" scheme="http://taejin0323.github.io/tags/HL7/"/>
+    
       <category term="CDA" scheme="http://taejin0323.github.io/tags/CDA/"/>
     
       <category term="C-CDA" scheme="http://taejin0323.github.io/tags/C-CDA/"/>
     
-      <category term="HL7" scheme="http://taejin0323.github.io/tags/HL7/"/>
-    
   </entry>
   
   <entry>
-    <title>블로그에 대한 투덜투덜</title>
+    <title>1월달 낙서장</title>
     <link href="http://taejin0323.github.io/2019/01/23/blog-issues/"/>
     <id>http://taejin0323.github.io/2019/01/23/blog-issues/</id>
     <published>2019-01-23T08:13:45.000Z</published>
-    <updated>2019-01-31T07:01:46.810Z</updated>
+    <updated>2019-02-12T10:02:13.293Z</updated>
     
     <content type="html"><![CDATA[<blockquote><p>그냥 두서없이 블로그 만들면서 들었던 생각들을 작성</p></blockquote><p>19.01.22</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">블로그에 disqus를 사용해서 댓글 기능을 추가했다.</span><br><span class="line"></span><br><span class="line">자세히는 모르지만 최근 패치 이후 언어 선택에 한글이 빠져있는 문제점이 생겼는데</span><br><span class="line">구글링 해보니 크롬 개발자 모드로 꼼수 부려서 한글이 나오게 하는 방법이 있어서 그렇게 적용해 놓았다.</span><br></pre></td></tr></table></figure><br><p>19.01.23</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line">블로그 생성한지 일주일이 지나가고 있지만 아직 모르는 것이 너무 많다ㅠ</span><br><span class="line">테마를 끌어와서 내 취향대로 설정하고 싶은데 마음대로 잘 안되네...</span><br><span class="line"></span><br><span class="line">아직까지 마크다운 사용에도 익숙하지 않고..</span><br><span class="line">저번 주까지 하루패드 에디터를 사용해서 작성했지만 에디터에서 보여지는 결과물과 Github page에서 출력되는 결과물이 달라서 Typora 에디터로 바꿔봤다(하루패드는 화면이 분할되서 좋았고, Typora는 UI가 이쁘다)</span><br><span class="line">일단은 plugin 기능들까지 사용하면서 최대한 나만의 개발환경을 만들어 보려고 노력중이다...</span><br><span class="line"></span><br><span class="line">내일까지 제출해야 하는 제안서에 시간을 많이 할애하고 있는 것도 있지만,</span><br><span class="line">포스팅 환경이 아직 잘 구성되지 못해서 업로드가 더딘 것 같다...</span><br><span class="line"></span><br><span class="line">적어도 개강 전까지 최대한 빨리 적응해서 능숙해 졌으면 좋겠다</span><br></pre></td></tr></table></figure><br><p>19.01.24</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">오늘은 알고리즘 공부했음... 언젠가 이것도 정리해서 올릴 수 있기를...</span><br><span class="line"></span><br><span class="line">글도 얼른 정리해야하는데...</span><br><span class="line">hexo에서 &apos;== ==&apos;, &apos;++ ++&apos; 등 하이라이트랑 밋줄이 표시 안되는 문제가 있어서 플러그인 관련해서 조금 살펴보고 있다...</span><br><span class="line">Markdown 에디터로 작성한 글이랑 서버에 올린 글이랑 다르니까 영 찝찝해서 아직 이것 저것 공부하는 중이다...</span><br></pre></td></tr></table></figure><br><p>19.01.28</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">주말에 서울 다녀온다고 아무것도 못했다ㅠ</span><br><span class="line">포스트 내 목차 링크와 각주 링크를 탔을 때, 해당 화면으로 이동하는 것 까지는 좋은데 맨 위 메뉴바가 가려서 잘 안보인다</span><br><span class="line">이 문제는 어떻게 해결하는게 좋을까?...</span><br><span class="line"></span><br><span class="line">그리고 주 마다, 하루하루 마다 목표와 계획을 짜서 해야지 계속 이랬다가는 진도가 안나가겠다</span><br></pre></td></tr></table></figure><br><p>19.01.31</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">별로 한 것도 없는데 벌써 1월의 마지막 날이다..</span><br><span class="line">자꾸 디자인적인 부분이 신경쓰여서 포스트 작성에 진도가 안 나가는 것 같다. 그냥 포기하고 내용만 적어 나갈까...</span><br><span class="line">목차를 만들어 해당 내용으로 링크를 타는 것은 좋은데 뒤로 가기가 제대로 안되는 문제는... 나중에 해결 해야겠다.</span><br><span class="line">이렇게 자꾸 하나씩 하나씩 미루게되고... ㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠ</span><br></pre></td></tr></table></figure><p><br><br><br></p>]]></content>
     
@@ -245,10 +305,12 @@
     
     </summary>
     
-      <category term="ETC" scheme="http://taejin0323.github.io/categories/ETC/"/>
+      <category term="Scratch" scheme="http://taejin0323.github.io/categories/Scratch/"/>
     
     
-      <category term="잡다한" scheme="http://taejin0323.github.io/tags/%EC%9E%A1%EB%8B%A4%ED%95%9C/"/>
+      <category term="diary" scheme="http://taejin0323.github.io/tags/diary/"/>
+    
+      <category term="Jan" scheme="http://taejin0323.github.io/tags/Jan/"/>
     
   </entry>
   

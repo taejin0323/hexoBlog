@@ -1,12 +1,13 @@
 ---
-title: 블로그에 대한 투덜투덜
+title: 1월달 낙서장
 author:
   nick: TAEJIN
   link: null
 categories:
-  - ETC
+  - Scratch
 tags:
-  - 잡다한
+  - diary
+  - Jan
 date: 2019-01-23 17:13:45
 subtitle: 아직 잘 모르는 것들.. 테마에 관한 것들.. 주저리 주저리
 cover: 'https://healthitanalytics.com/images/site/article_headers/_normal/Policy_and_Regulation2.jpg'
