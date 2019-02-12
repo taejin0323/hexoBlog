@@ -1,5 +1,5 @@
 ---
-title: 운영체제 - Overview
+title: 운영체제 - Overview_1
 author:
   nick: TAEJIN
   link: null
@@ -9,7 +9,7 @@ tags:
   - 운영체제
   - OS
 date: 2019-02-05 19:29:30
-subtitle: 운영체제 복습
+subtitle: 운영체제 복습(소개)
 cover: https://safebytes.com/wp-content/uploads/2016/10/OperatingSystem-min.jpg
 
 ---
