@@ -11,11 +11,13 @@ tags:
 date: 2019-02-12 18:58:36
 subtitle: 안 쓰려다가...
 cover: 'https://healthitanalytics.com/images/site/article_headers/_normal/Policy_and_Regulation2.jpg'
+
 ---
 
 > 그냥 두서없이 블로그 만들면서 들었던 생각들을 작성
 
-19.01.22
+19.02.12
+
 ```
 1월에 이어서 2월에도 일기처럼 매일 작성할까 고민만 하고 나중에 다시 볼거 같지 않아서 작성 안하고 있었는데...
 틈틈히 포스팅 작성은 하고 있지만 이것저것 일이 생겨서 매일 업로드 하는게 버거워지는 것 같아서 이거라도 작성해야 겠다.
@@ -40,4 +42,13 @@ cover: 'https://healthitanalytics.com/images/site/article_headers/_normal/Policy
 2. Spring 공부... 혼자 하려니 시간이 많이 걸리는 문제가 있지만ㅠ
 3. Python web crawling... 이거라도 후딱 끝내야지
 3가지에 집중(운체는 2장까지만 일단...)
+```
+
+
+
+19.02.18
+
+```
+자취방을 이사하게 되어서 이래저래 바쁘게 움직이다보니 개인공부를 게을리하게 되었다ㅠ
+페이스 조절 잘해가면서 조금만 더 분발하자!
 ```
