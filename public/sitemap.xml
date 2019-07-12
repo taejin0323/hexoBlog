@@ -2,6 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://taejin0323.github.io/2019/07/12/01-hello-python/</loc>
+    
+    <lastmod>2019-07-12T06:34:57.585Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://taejin0323.github.io/2019/02/04/spring-pojo/</loc>
+    
+    <lastmod>2019-07-12T06:16:02.828Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://taejin0323.github.io/2019/02/11/spring-IoC/</loc>
+    
+    <lastmod>2019-07-12T06:16:02.041Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://taejin0323.github.io/2019/02/12/os-overview-2/</loc>
+    
+    <lastmod>2019-07-12T06:16:01.342Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://taejin0323.github.io/2019/01/23/markdown-plugin/</loc>
+    
+    <lastmod>2019-07-12T03:08:28.876Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://taejin0323.github.io/2019/03/07/networking-01/</loc>
     
     <lastmod>2019-03-07T08:24:35.748Z</lastmod>
@@ -9,44 +44,9 @@
   </url>
   
   <url>
-    <loc>http://taejin0323.github.io/2019/02/12/feb-report/</loc>
-    
-    <lastmod>2019-02-18T12:46:32.012Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://taejin0323.github.io/2019/02/12/os-overview-2/</loc>
-    
-    <lastmod>2019-02-18T12:43:46.775Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://taejin0323.github.io/2019/01/23/blog-issues/</loc>
-    
-    <lastmod>2019-02-12T10:02:13.293Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://taejin0323.github.io/2019/02/05/os-overview/</loc>
     
     <lastmod>2019-02-12T09:53:41.142Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://taejin0323.github.io/2019/02/11/spring-IoC/</loc>
-    
-    <lastmod>2019-02-11T09:39:44.507Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://taejin0323.github.io/2019/02/04/spring-pojo/</loc>
-    
-    <lastmod>2019-02-11T08:07:32.592Z</lastmod>
     
   </url>
   
@@ -82,13 +82,6 @@
     <loc>http://taejin0323.github.io/2019/01/19/cda-tutorial/</loc>
     
     <lastmod>2019-01-29T09:25:45.744Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://taejin0323.github.io/2019/01/23/markdown-plugin/</loc>
-    
-    <lastmod>2019-01-23T08:09:48.810Z</lastmod>
     
   </url>
   

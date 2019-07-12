@@ -4,7 +4,8 @@ author:
   nick: TAEJIN
   link: null
 categories:
-  - Scratch
+  - BLOG
+  - NOTEPAD
 tags:
   - diary
   - Jan
